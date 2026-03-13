@@ -76,13 +76,13 @@ textOpen and run the .ipynb files in order (1–4 for LangChain progression).
 - Add more advanced agents (e.g., memory-enhanced or multi-modal).
 - Integrate quantum simulations (Qiskit) for hybrid AI agents.
 - Deploy as web apps (e.g., Streamlit).
-- Add evaluation metrics for agent performance.
+- Add evaluation metrics for agent performance
 
 ## About the Author
 Asfand Yar  
 BSc Computer Science (Minor in Physics)  
 Instructor – Introduction to Quantum Computing  
-AI Systems & RAG Engineer  
+AI Systems & RAG Engineer 
 
 Interests:  
 - AI Engineering  
