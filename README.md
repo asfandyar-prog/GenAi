@@ -85,7 +85,7 @@ Instructor – Introduction to Quantum Computing
 AI Systems & RAG Engineer 
 
 Interests:  
-- AI Engineering  
+
 - Retrieval-Augmented Generation  
 - ML Infrastructure  
 - Quantum Computing  
