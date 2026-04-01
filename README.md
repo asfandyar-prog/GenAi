@@ -8,7 +8,7 @@ Key components include:
 - Tool integrations for enhanced functionality
 - Additional ML scripts (e.g., bigram language model, Micrograd neural net from scratch)
 
-This project explores AI agent development, chain orchestration, and foundational ML concepts for educational and prototyping purposes.
+This project explores AI agent development, chain orchestration, and foundational ML concepts for educational and prototyping purposes
 
 ## Motivation
 As a BSc Computer Science student passionate about AI, I created this repo to:
